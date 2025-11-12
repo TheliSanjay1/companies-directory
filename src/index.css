@@ -39,6 +39,12 @@ a { color: var(--accent); text-decoration: none; }
 table { width: 100%; border-collapse: collapse; }
 th, td { padding: 10px; border-bottom: 1px solid var(--border); text-align: left; }
 th { color: var(--muted); font-weight: 600; }
+
+@media (max-width: 768px) {
+  .card { overflow-x: auto; overflow-y: auto; max-height: 70vh; }
+  table { min-width: 600px; font-size: 14px; }
+  th, td { padding: 8px; }
+}
 .badge { padding: 4px 8px; border-radius: 999px; border: 1px solid var(--border); font-size: 12px; }
 .pill { padding: 4px 10px; border-radius: 999px; background: #0d1422; border: 1px solid var(--border); }
 .toolbar { gap: 8px; }

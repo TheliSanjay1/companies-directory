@@ -1,0 +1,205 @@
+
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Acme Corp",
+      "location": "San Francisco",
+      "industry": "Technology",
+      "employees": 250,
+      "founded": 2010,
+      "isActive": true,
+      "website": "https://acme.example.com"
+    },
+    {
+      "id": 2,
+      "name": "GreenLeaf Foods",
+      "location": "Chicago",
+      "industry": "Food & Beverage",
+      "employees": 1200,
+      "founded": 1998,
+      "isActive": true,
+      "website": "https://greenleaf.example.com"
+    },
+    {
+      "id": 3,
+      "name": "BlueSky Airlines",
+      "location": "Seattle",
+      "industry": "Aviation",
+      "employees": 5300,
+      "founded": 1986,
+      "isActive": false,
+      "website": "https://bluesky.example.com"
+    },
+    {
+      "id": 4,
+      "name": "FinEdge",
+      "location": "New York",
+      "industry": "Finance",
+      "employees": 900,
+      "founded": 2007,
+      "isActive": true,
+      "website": "https://finedge.example.com"
+    },
+    {
+      "id": 5,
+      "name": "MediPlus",
+      "location": "Boston",
+      "industry": "Healthcare",
+      "employees": 3000,
+      "founded": 2001,
+      "isActive": true,
+      "website": "https://mediplus.example.com"
+    },
+    {
+      "id": 6,
+      "name": "Voltware",
+      "location": "Austin",
+      "industry": "Technology",
+      "employees": 140,
+      "founded": 2018,
+      "isActive": true,
+      "website": "https://voltware.example.com"
+    },
+    {
+      "id": 7,
+      "name": "TerraBuild",
+      "location": "Dallas",
+      "industry": "Construction",
+      "employees": 720,
+      "founded": 1995,
+      "isActive": false,
+      "website": "https://terrabuild.example.com"
+    },
+    {
+      "id": 8,
+      "name": "EduSpark",
+      "location": "San Jose",
+      "industry": "Education",
+      "employees": 85,
+      "founded": 2019,
+      "isActive": true,
+      "website": "https://eduspark.example.com"
+    },
+    {
+      "id": 9,
+      "name": "ShopSmart",
+      "location": "Los Angeles",
+      "industry": "Retail",
+      "employees": 450,
+      "founded": 2011,
+      "isActive": true,
+      "website": "https://shopsmart.example.com"
+    },
+    {
+      "id": 10,
+      "name": "CloudNine",
+      "location": "Bangalore",
+      "industry": "Technology",
+      "employees": 2000,
+      "founded": 2015,
+      "isActive": true,
+      "website": "https://cloudnine.example.com"
+    },
+    {
+      "id": 11,
+      "name": "AquaPure",
+      "location": "Mumbai",
+      "industry": "Utilities",
+      "employees": 600,
+      "founded": 2003,
+      "isActive": true,
+      "website": "https://aquapure.example.com"
+    },
+    {
+      "id": 12,
+      "name": "Sunrise Hotels",
+      "location": "Goa",
+      "industry": "Hospitality",
+      "employees": 350,
+      "founded": 1999,
+      "isActive": true,
+      "website": "https://sunrisehotels.example.com"
+    },
+    {
+      "id": 13,
+      "name": "ByteWorks",
+      "location": "Hyderabad",
+      "industry": "Technology",
+      "employees": 800,
+      "founded": 2012,
+      "isActive": true,
+      "website": "https://byteworks.example.com"
+    },
+    {
+      "id": 14,
+      "name": "FarmFresh",
+      "location": "Pune",
+      "industry": "Agriculture",
+      "employees": 210,
+      "founded": 2008,
+      "isActive": false,
+      "website": "https://farmfresh.example.com"
+    },
+    {
+      "id": 15,
+      "name": "SteelForge",
+      "location": "Jamshedpur",
+      "industry": "Manufacturing",
+      "employees": 5000,
+      "founded": 1975,
+      "isActive": true,
+      "website": "https://steelforge.example.com"
+    },
+    {
+      "id": 16,
+      "name": "QuickMed",
+      "location": "Chennai",
+      "industry": "Healthcare",
+      "employees": 1200,
+      "founded": 2005,
+      "isActive": true,
+      "website": "https://quickmed.example.com"
+    },
+    {
+      "id": 17,
+      "name": "PayWave",
+      "location": "Noida",
+      "industry": "Finance",
+      "employees": 600,
+      "founded": 2016,
+      "isActive": true,
+      "website": "https://paywave.example.com"
+    },
+    {
+      "id": 18,
+      "name": "RideOn",
+      "location": "Delhi",
+      "industry": "Transportation",
+      "employees": 3500,
+      "founded": 2013,
+      "isActive": true,
+      "website": "https://rideon.example.com"
+    },
+    {
+      "id": 19,
+      "name": "HomeWise",
+      "location": "Kolkata",
+      "industry": "Real Estate",
+      "employees": 900,
+      "founded": 2002,
+      "isActive": false,
+      "website": "https://homewise.example.com"
+    },
+    {
+      "id": 20,
+      "name": "NeoMedia",
+      "location": "Chandigarh",
+      "industry": "Media",
+      "employees": 150,
+      "founded": 2017,
+      "isActive": true,
+      "website": "https://neomedia.example.com"
+    }
+  ]
+}
